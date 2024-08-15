@@ -1,4 +1,4 @@
-# Best Streaming Service Analysis - GitHub README
+# Best Streaming Service Analysis
 
 ## Overview
 
